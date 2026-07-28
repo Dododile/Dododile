@@ -5,10 +5,10 @@
 <td valign="top" width="55%">
 <h3>M.Sc. Student in Computer Engineering <br> Cybersecurity Track</h3>
 <p align="left">
-🎓 B.Sc. graduate in Computer Engineering from the University of Pisa (UNIPI), currently pursuing an M.Sc. specialized in Cybersecurity.<br><br>
-⚡ Working on secure distributed infrastructures, system dependability evaluation, and digital hardware architectures.<br><br>
-♟️ Interested in modeling complex systems, stochastic processes, and low-level development.<br><br>
-🪐 Take a look at my highlighted projects below or check my public repositories.
+》B.Sc. graduate in Computer Engineering from the University of Pisa (UNIPI), currently pursuing an M.Sc. specialized in Cybersecurity.<br><br>
+》Studying secure distributed infrastructures, system dependability evaluation, and digital hardware architectures.<br><br>
+》Learning automation and building tools.<br><br>
+》Frogs enthusiast.<br><br>
 </p>
 </td>
 <td valign="center" width="45%">
