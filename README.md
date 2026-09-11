@@ -1,7 +1,6 @@
 <div align="center">
-<h1 align="center">Hello🐸</h2>
 
-<h2 align="left">🎩 About me </h2>
+<h2 align="left">About me </h2>
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -10,23 +9,10 @@
   》<strong>B.Sc. graduate in Computer Engineering</strong> - University of Pisa.<br><br>
   》Studying secure distributed infrastructures, system dependability evaluation, and digital hardware architectures.<br><br>
   》Currently learning automation and building tools.<br><br>
-  》Frogs enthusiast.<br><br>
 </p>
-</td>
-<td valign="center" width="45%">
-<img src="https://raw.githubusercontent.com/gcoro/gcoro/main/assets/coding.gif" alt="Coding Engineering" width="100%" />
-<div align="center">
-  <img src="banjo_frog.jpg" alt="Banjo Frog!">
-</div>
 </td>
 </tr>
 </table>
-</div>
-
-
-<h2 align="left"> 📈GitHub Stats </h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dododile&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ---
